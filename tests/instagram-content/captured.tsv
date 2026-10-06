@@ -1,0 +1,4 @@
+account	median	views	hook	url	observed_at
+synthetic-a	1000	3000	Три вопроса перед записью
+synthetic-b	500	2500	Что убрать из первого кадра
+synthetic-invalid	0	500	Нет базы для сравнения

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Instagram: контент на русском"
+  short_description: "Reels, карусели, Stories и редактура для Instagram"
+  default_prompt: "Используй $instagram-content, чтобы подготовить сценарий Reels на 30 секунд по моей теме."
+policy:
+  allow_implicit_invocation: true
